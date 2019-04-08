@@ -1,6 +1,6 @@
 {
   "name": "@sharingapples/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Linter setup",
   "main": "index.js",
   "author": "Ranjan Shrestha",
