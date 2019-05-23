@@ -1,6 +1,6 @@
 {
   "name": "@rchs/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "Linter setup",
   "main": "index.js",
   "author": "Ranjan Shrestha <ranjan@roaches.dev>",
