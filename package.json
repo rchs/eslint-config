@@ -1,9 +1,9 @@
 {
-  "name": "@sharingapples/eslint-config",
+  "name": "@rchs/eslint-config",
   "version": "1.0.4",
   "description": "Linter setup",
   "main": "index.js",
-  "author": "Ranjan Shrestha",
+  "author": "Ranjan Shrestha <ranjan@roaches.dev>",
   "license": "MIT",
   "private": false,
   "dependencies": {
